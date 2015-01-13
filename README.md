@@ -32,14 +32,21 @@ NoSQL
 	
 ## Data Lifecycle
 0. Question 
-	*Curation
-	*Triage (Prioritization)
-	*Persistance
+	+Curation
+	+Triage (Prioritization)
+	+Persistance
 1. Collection / Generation
 2. Clean-up
 3. Storage
 4. Processing / Analysis
 5. Query / Visualize / Act
+6. Goto 0
+
+## Big Data Interaction
+Via. Apps
+HTTP Request/Response Cycle
+
+
 	
 
 
