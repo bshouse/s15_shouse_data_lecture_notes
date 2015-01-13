@@ -13,6 +13,36 @@ Thursdays:
 Tuesdays:
 	Presentations
 
+Dustin - Markdown Syntax Presentation
+
+## Big Data
+NoSQL
+	*Document
+	*Graph
+	*Key-Value Stores
+	*Columnar Stores
+	
+## InfoVis
+	*D3 (Javascript)
+	*Apps
+		+Tablo
+		+Excel
+	*Data Analysis
+		+R
+	
+## Data Lifecycle
+0. Question 
+	*Curation
+	*Triage (Prioritization)
+	*Persistance
+1. Collection / Generation
+2. Clean-up
+3. Storage
+4. Processing / Analysis
+5. Query / Visualize / Act
+	
+
+
 
 
 
