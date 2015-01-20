@@ -2,3 +2,17 @@
 
 SOAP Sucks!
 
+##URL Structures
+Distinct:
+  /api/1.0/user/0
+  /api/1.0/posessions/1
+
+Nested: 
+  /api/1.0/post/0/coments
+  
+Issues:
+  Security(AAA), Resource Identity, Failures (HTTP/APP), Persistence (DB/Mem)
+  
+##Testing
+  RSpec - Human readable descriptions in testing
+  
