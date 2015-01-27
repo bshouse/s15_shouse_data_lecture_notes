@@ -1,0 +1,20 @@
+#NODE.JS
+
+Google V8 as Server Side Javascript
+
+.10 = Stable
+.11 = Beta (includes Promises)
+
+##Event Loop
+Event-based programming
+Scheduling
+ process.nextTick (Pre IO)
+ setImmediate (Post IO)
+ setTimeout/Interval
+
+Events:
+ Callbacks: Hell
+ Event Emitters:
+ Promises:
+
+REST/CURL Fun
